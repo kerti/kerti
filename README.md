@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/asayitrek" target="blank"><img src="https://img.shields.io/twitter/follow/asayitrek?logo=twitter&style=for-the-badge" alt="asayitrek" /></a> </p>
 
+- 🤝 Get to know me [https://radityakertiyasa.com](https://radityakertiyasa.com)
+ 
 - 🔭 I’m currently working on [balances](https://github.com/kerti/balances)
 
-- 📫 How to reach me **adit.kerti@gmail.com**
+- 📫 Reach out to me **adit.kerti@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/radityakertiyasa/](https://www.linkedin.com/in/radityakertiyasa/)
 
